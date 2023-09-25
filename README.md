@@ -30,6 +30,3 @@ print(soln)
 
 ## Result: 
 Thus the solution for the linear equations are successfully solved using python program.
-
-Thus the solutions for the linear equations are successfully solved using python program
-
